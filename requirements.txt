@@ -1,0 +1,7 @@
+streamlit
+ultralytics
+opencv-python
+numpy
+gtts
+streamlit-webrtc
+requests
